@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Build artifacts
+node_modules/
+dist/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.local
