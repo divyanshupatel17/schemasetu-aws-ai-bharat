@@ -1,3 +1,15 @@
+
+| | |
+|---|---|
+| **Project Name** | SchemaSetu (सहायक सेतु) |
+| **Hackathon** | AWS AI for Bharat Hackathon |
+| **Organizer** | Hack2Skill |
+| **Hackathon URL** | [Event Page](https://vision.hack2skill.com/event/ai-for-bharat/?utm_campaign=&utm_term=&utm_content=) |
+| **Team Name** | Vahini |
+| **Team Lead** | Divyanshu Patel |
+
+---
+
 <p align="center">
   <img src="assets/architecture.png" alt="SchemaSetu Architecture" width="700"/>
 </p>
@@ -20,16 +32,6 @@
   <a href="#docs">Documentation</a> •
   <a href="#team">Team</a>
 </p>
-
----
-
-| | |
-|---|---|
-| **Project Name** | SchemaSetu (सहायक सेतु) |
-| **Hackathon** | AWS AI for Bharat Hackathon |
-| **Organizer** | [Hack2Skill](https://hack2skill.com/) |
-| **Team Name** | Vahini |
-| **Team Lead** | Divyanshu Patel |
 
 ---
 
